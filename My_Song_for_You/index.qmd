@@ -1,8 +1,5 @@
 # UTS-2 My Songs for You
 
-Post Wedding Kawah Putih
-Lirik by Armein Z. R. Langi
-Music: SUNO
 
-{{< video https://youtu.be/KWthEImJ9mY?si=iUV8Ghhj0R3gKQyZ>}}, lyrics
+{{< video }}, lyrics
 
