@@ -1,5 +1,3 @@
 # Selamat Datang {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
-
 Halo Aku Fawwaz Aydin Mustofa. Seorang mahasiswa STI ITB 2022
