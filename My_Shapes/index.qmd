@@ -1,24 +1,23 @@
 # UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
 
 
-**Peta SHAPE (singkat):**
-
-* **S — Spiritual Gifts:** 
-* **H — Heart (Minat & Cinta Pelayanan):** 
-* **A — Abilities (Kemampuan):** 
-* **P — Personality (Gaya Kepribadian Kerja):** 
-* **E — Experiences (Pengalaman Kunci):** 
+* **S — Signature Strengths**:Berbicara jujur, secara lebih luas berarti menampilkan diri secara tulus, serta bertanggung jawab atas perasaan dan tindakan sendiri.
+* **H — Heart :**Menjunjung Loyalitas, Perkembangan, dan Kejujuran
+* **A — Aptitudes & Acquired Skills :**Mampu mengurai masalah kompleks menjadi solusi sistematis, Selalu ingin belajar teknologi baru dan memperbarui skill 
+* **P — Psychometric Profile:**tenang, empatik, dan artistik, dengan kecenderungan sensitif serta reflektif terhadap emosi dan lingkungan sekitarnya. Suka menikmati momen kini, namun sering merasa cemas atau ragu saat menghadapi perubahan besar.
+* **E — Narrative Identity & PostTraumatic Growth:** Kehilangan teman sekolah saat pindah rumah membuat saya sadar pentingnya ikatan dan persahabatan. Ekspektasi berat dari keluarga yang ditaruh ke saya hanya karena saya adalah anak dari ibu saya yg sangat berprestasi dulu membuat saya sangat takut akan apa yg terjadi jika aku tidak mencapainya. namun sekarang saya tahu saya tidak perlu berusaha untuk memenuhi ekspektasi - ekspektasi itu karena saya adalah diri saya sendiri.
 
 ---
 
-## Misi Pribadi
-
-
-
----
 
 
 ## Narasi Diri
 
- 
+Saya sekarang lagi menempuh studi di Sistem dan Teknologi Informasi. Dari dulu saya suka hal-hal yang bisa bikin hidup orang lebih mudah lewat teknologi (H). Saya punya rasa ingin tahu yang besar, dan biasanya kalau nemu masalah, saya akan coba uraikan satu per satu sampai ketemu solusinya. Dari situ saya sadar kalau saya menikmati proses berpikir logis dan mencari pola—hal yang akhirnya bikin saya tertarik di bidang analisis dan sistem (A).
+
+Saya juga termasuk orang yang tenang dan cukup peka sama sekitar. Saya cepat menangkap suasana dan perasaan orang lain (P), dan mungkin karena itu saya lebih nyaman bekerja dalam tim yang saling mendukung. Pengalaman kehilangan teman sekolah waktu pindah rumah dulu banyak mengubah cara pandang saya. Itu momen pertama saya benar-benar merasa kehilangan hubungan yang berarti, dan sejak itu saya sadar betapa pentingnya ikatan dan persahabatan dalam hidup (E).
+
+Selain itu, saya juga pernah merasa terbebani oleh ekspektasi besar dari keluarga—karena ibu saya dulu sangat berprestasi, saya sempat takut kalau saya nggak akan bisa mencapai hal yang sama. Tapi seiring waktu, saya belajar kalau saya nggak harus hidup dalam bayangan itu. Saya bisa tumbuh jadi diri saya sendiri, dengan cara dan jalan saya sendiri (E).
+
+Sekarang, saya pengin terus berkembang di lingkungan yang menghargai kejujuran, loyalitas, dan niat baik (S/H). Saya percaya, teknologi terbaik adalah yang dibuat dengan hati—yang nggak cuma efisien, tapi juga punya makna dan manfaat bagi orang lain (H).
 
